@@ -1,5 +1,5 @@
 # Gamesoundeffects
-Voices, Narration, Dubbing For Game Sound Effects like Video Sounds & Audio Sounds
+Voices, Narration, Dubbing For Game Sound Effects (include Game Bg Sound) like Video Sounds & Audio Sounds
 
 Devices:
 
