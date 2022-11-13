@@ -3,7 +3,7 @@ Voices, Narration, Dubbing For Game Sound Effects like Video Sounds & Audio Soun
 
 Devices:
 
-Mobile Phones (i-Phone, Android)
+Mobile Phones (i-Phone, Android) (with Sound Memo app)
 
 Audio Tools: 
 
