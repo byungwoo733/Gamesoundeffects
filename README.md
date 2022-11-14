@@ -7,4 +7,4 @@ Mobile Phones (i-Phone, Android) (with Sound Memo app)
 
 Audio Tools: 
 
-Audacity, LMMS, Sunvox,Bfxr etc
+Audacity, LMMS, Sunvox, Bfxr etc
